@@ -3,7 +3,6 @@
  */
 package kezia
 
-
 fun main(args: Array<String>) {
 
     val test = readLine()!!.toInt()
