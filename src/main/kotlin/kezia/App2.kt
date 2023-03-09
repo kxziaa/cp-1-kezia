@@ -7,8 +7,8 @@ fun main() {
         ArrayOfNumchar(2, 'd'),
         ArrayOfNumchar(3, 'c'),
         ArrayOfNumchar(1, 'b'),
-        ArrayOfNumchar(5, 'e'),
-        ArrayOfNumchar(4, 'a')
+        ArrayOfNumchar(5, 'a'),
+        ArrayOfNumchar(4, 'e')
     )
 
     val sortedNumchar = numchar.sortedBy { it.index }
